@@ -36,7 +36,6 @@ Can we help automate this process for devs who are not so savvy?
 - The commoditization of business management through software
 - Software development in the gig economy
 - Programmable business models for open source projects
-
-
+- Sustainable open source business models
 
 
