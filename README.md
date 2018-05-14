@@ -25,6 +25,10 @@ https://news.ycombinator.com/item?id=16997862
 
 ## How will we solve this? (these are ideas, not statements)
 
+There is an enormous amount of value created in open source software today. Unfortunately, many projects miss out on capturing any of that value, to reinvest it to their projects. Some of the [best projects](https://vuejs.org/) learn early how to leverage [business](https://www.patreon.com/evanyou) [opportunities](https://vuejs.org/support-vuejs/) in order to grow their community.
+
+Can we help automate this process for devs who are not so savvy?
+
 - A GitHub bot that helps open source projects grow from one maintainer to many
 - Collaborative decision making for open source communities
 - Software for group governence
@@ -32,6 +36,7 @@ https://news.ycombinator.com/item?id=16997862
 - The commoditization of business management through software
 - Software development in the gig economy
 - Programmable business models for open source projects
+
 
 
 
