@@ -20,7 +20,7 @@ https://news.ycombinator.com/item?id=16997862
 ## There are plenty of popular open source projects that get "stalled out"
 
 - https://github.com/RubaXa/Sortable
-
+- TODO: add more
 
 
 ## How will we solve this? (these are ideas, not statements)
