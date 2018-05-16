@@ -39,3 +39,10 @@ Can we help automate this process for devs who are not so savvy?
 - Sustainable open source business models
 
 
+
+## Organizations that might share vision
+- https://www.codeforamerica.org/
+- https://blog.ghost.org/5/
+
+
+
