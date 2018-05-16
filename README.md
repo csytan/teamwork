@@ -39,6 +39,11 @@ Can we help automate this process for devs who are not so savvy?
 - Sustainable open source business models
 
 
+## Motivations
+- Remote friendly developer jobs
+- Equity without the huge upfront commitment
+- Increasing the alignment between businesses and their customers
+- Transparency in operations (also helps with https://en.wikipedia.org/wiki/Bus_factor#Increasing_the_bus_factor)
 
 ## Organizations that might share vision
 - https://www.codeforamerica.org/
