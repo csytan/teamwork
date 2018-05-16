@@ -29,6 +29,8 @@ There is an enormous amount of value created in open source software today. Unfo
 
 Can we help automate this process for devs who are not so savvy?
 
+
+## What will it be? Marketing lines -- used to explain
 - A GitHub bot that helps open source projects grow from one maintainer to many
 - Collaborative decision making for open source communities
 - Software for group governence
@@ -37,6 +39,8 @@ Can we help automate this process for devs who are not so savvy?
 - Software development in the gig economy
 - Programmable business models for open source projects
 - Sustainable open source business models
+- Non-profit angel investing
+- Freelance for equity
 
 
 ## Motivations
@@ -44,7 +48,8 @@ Can we help automate this process for devs who are not so savvy?
 - Equity without the huge upfront commitment
 - Increasing the alignment between businesses and their customers
 - Transparency in operations (also helps with https://en.wikipedia.org/wiki/Bus_factor#Increasing_the_bus_factor)
-- Non-profit angel investing
+
+
 
 ## Organizations that might share vision
 - https://www.codeforamerica.org/
