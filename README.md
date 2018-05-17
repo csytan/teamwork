@@ -56,4 +56,11 @@ Can we help automate this process for devs who are not so savvy?
 - https://blog.ghost.org/5/
 
 
+## Potential names
+- Hive Mind
+- Group think
+
+
+
+
 
